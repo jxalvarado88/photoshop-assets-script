@@ -11,4 +11,7 @@ Made from:
  * Licensed under the MIT license
  */
  
- Select desired layer and run script, it will export android or iOS assets from an @3x Iphone 6 plus (Photoshop preset file)
+Enhanced by:
+Diego Amezquita
+
+Select desired layer and run script, it will export android or iOS assets from an @3x Iphone 6 plus (Photoshop preset file)
